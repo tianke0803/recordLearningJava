@@ -1,0 +1,10 @@
+1、首先我们谈谈什么是SpringBoot，既然我们要学习SpringBoot或者采用SpringBoot来搭建项目，先来了解一下
+	目前来说SpringBoot是微服务中最好的Java框架。
+	SpringBoot是用来简化Spring应用的初始搭建以及开发过程，使用特定的方式进行配置
+	创建独立的Spring引用程序main方法运行
+	嵌入式tomcat无需部署war文件
+	简化Maven配置
+	自动配置Spring添加对应的功能
+简单来说，SrpingBoot的目的就是    简化Spring引用开发、约定大于配置、去繁化简的一项技术。
+如果非要说SpringBoot的缺点   那也只能说 虽然SpringBoot上手比较简单，但是当你并不了解其核心技术及流程，遇到问题还是比较麻烦的，总而言之一起学习吧
+2、
