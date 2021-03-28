@@ -1,0 +1,7 @@
+1、首先来说一下启动类的注解，这里推荐小伙伴都把源码给下载了，可以更好地帮助我们学习
+	@SpringBootApplication：这个注解是SpringBoot项目的核心注解，目的是开启自动配置，标记当前类为SpringBoot的引导启动类。
+	当我们点进去@SpringBootApplication这个注解的时候，我们可以看这几个主要的注解。@SpringBootConfiguration、@EnableAutoConfiguration、@ComponentScan
+	@SpringBootConfiguration：这个注解来源于@Configuration，二者功能都是将当前类标注为配置类，并将当前类里以@Bean注解标记的方法实例注入到Spring容器中，实例名即方法名。至于@Configuration，作用是配置Spring容器。
+	@EnableAutoConfiguration：
+	https://blog.csdn.net/qq_28289405/article/details/81302498
+	
